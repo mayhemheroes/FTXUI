@@ -1,0 +1,5 @@
+project: ftxui
+target: ftxui
+
+cmds:
+  - cmd: /fuzz_table
